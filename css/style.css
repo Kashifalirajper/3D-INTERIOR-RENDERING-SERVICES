@@ -9880,11 +9880,17 @@ label.error {
 
 
 
-
-.exteriorHeaderSection {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(../images/3d-exterior/3d-rendering.jpg);
-	background-size: cover;
+.BackgroundMainBannervido {
+	width: 100vw;
+	height: 100vh;
+	object-fit: cover;
 }
+
+
+.headingMainBanner{
+	margin-top: 20%;
+}
+
 
 .headingMainBanner h1{
 	font-family: 'Dhurjati', sans-serif;
@@ -10174,11 +10180,11 @@ a{
 
 .iconsCards i{
 	font-size: 50px;
-	color: #EA6A69;
+	color: #284866;
 }
 
 .iconHeading{
-	color: #EA6A69;
+	color: #284866;
 	font-size: 20px;
 	margin-top: 20px;
 }
